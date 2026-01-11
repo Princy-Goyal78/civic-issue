@@ -1,3 +1,4 @@
+A beginner-friendly civic issue reporting app created as part of learning frontend development using React and TypeScript.
 
   # Civic Issue Reporting App
 
